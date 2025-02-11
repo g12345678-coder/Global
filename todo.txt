@@ -1,0 +1,30 @@
+1) explore all the mails in outlook
+2) about GCS
+3) what does informatica do?
+4) BDM/DEI
+5) Explore all the apps in okta dashboard
+6) Explore ms teams 
+7) what is vpn and whydowe use Global protect vpn
+8) InfaEdge
+9) Operating systems, types, etc
+
+
+1)  To see every process on the system using standard syntax:
+          ps -e
+          ps -ef
+          ps -eF
+          ps -ely
+
+       To see every process on the system using BSD syntax:
+          ps ax
+          ps axu
+
+       To print a process tree:
+          ps -ejH
+          ps axjf
+
+       To get info about threads:
+          ps -eLf
+          ps axms
+
+
